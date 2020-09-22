@@ -1,0 +1,37 @@
+[{
+    "name": "喵帅ღ",
+    "url": "https://zyhcs.github.io/",
+    "title": "瞧一瞧➣",
+    "introduction": "公众号【算法码上来】，分享深度学习与NLP算法",
+    "avatar": "/medias/avatars/avatar.jpg"
+}, {
+    "name": "Semantic",
+    "url": "https://zijieke.com/semantic-ui/",
+    "title": "瞧一瞧➣",
+    "introduction": "一款精致简单的语义化前端ui框架，好不好，用了才知道",
+    "avatar": "https://zijieke.com/semantic-ui/images/logo.png"
+}, {
+    "name": "程序员工具",
+    "url": "https://tool.lu/",
+    "title": "瞧一瞧➣",
+    "introduction": "多种在线工具，帮助你提高开发效率",
+    "avatar": "/medias/avatars/tool.png"
+}, {
+    "name": "菜鸟教程",
+    "url": "https://www.runoob.com/",
+    "title": "瞧一瞧➣",
+    "introduction": "一个非常干净清爽的IT教程网站，各种编程知识应有尽有！",
+    "avatar": "https://www.runoob.com/wp-content/themes/runoob/assets/images/qrcode.png"
+}, {
+    "name": "Vue.js教程",
+    "url": "https://cn.vuejs.org/v2/guide/",
+    "title": "瞧一瞧➣",
+    "introduction": "一套用于构建用户界面的渐进式前端框架",
+    "avatar": "https://cn.vuejs.org/images/logo.png"
+}, {
+    "name": "Python教程",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "title": "瞧一瞧➣",
+    "introduction": "Github上90k+✰的python自学教程，民众的眼光是雪亮的。",
+    "avatar": "/medias/avatars/python.png"
+}]
