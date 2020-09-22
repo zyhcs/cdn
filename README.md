@@ -2,7 +2,8 @@
 ## hexo jsdelive cdn
 建立CDN库，通过 jsdelivr 引用资源
 - 使用方法：https://cdn.jsdelivr.net/gh/ 你的用户名 / 你的仓库名 @发布的版本号 / 文件路径
--举例：1. https://cdn.jsdelivr.net/gh/zyhcs/cdn@1.0/medias/avatars/avatar.jpg
+-举例：
+1. https://cdn.jsdelivr.net/gh/zyhcs/cdn@1.0/medias/avatars/avatar.jpg
 2. https://cdn.jsdelivr.net/gh/zyhcs/cdn@1.0/medias/music/song/倒数.mp3
 3. https://cdn.jsdelivr.net/gh/zyhcs/cdn@1.0/source/_data/music.json
 
