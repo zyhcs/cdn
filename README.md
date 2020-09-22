@@ -5,7 +5,7 @@
 -举例：
 1. https://cdn.jsdelivr.net/gh/zyhcs/cdn@1.0/medias/avatars/avatar.jpg
 2. https://cdn.jsdelivr.net/gh/zyhcs/cdn@1.0/medias/music/song/倒数.mp3
-3. https://cdn.jsdelivr.net/gh/zyhcs/cdn@1.0/source/_data/music.json
+3. https://cdn.jsdelivr.net/gh/zyhcs/cdn@1.0/source/_data/musics.json
 
 > == 注意：== 版本号不是必需的，是为了区分新旧资源，如果不使用版本号，将会直接引用最新资源
 
